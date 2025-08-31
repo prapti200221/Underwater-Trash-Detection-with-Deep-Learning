@@ -56,7 +56,3 @@ The results of the experiments will be presented in the final report, including:
 
 
 ---
-
-## 🙏 Acknowledgments
-
-This project is part of the ST456 course at LSE (WT 2025). We thank the course lecturers and teaching assistants for their guidance and support. 💡
